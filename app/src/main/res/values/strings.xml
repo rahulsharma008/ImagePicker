@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinSelectImageGallery</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="remove_photo">Remove Photo</string>
+    <string name="cancel">Cancel</string>
+</resources>
